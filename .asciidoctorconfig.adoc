@@ -1,5 +1,8 @@
+// .asciidoctorconfig.adoc
 :experimental:
 :sectlinks:
 :sectanchors:
 :sectnums:
+:table-caption!:
 :sectnumlevels: 2
+:linkcss:
